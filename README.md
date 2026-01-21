@@ -19,16 +19,21 @@ The goal was to extract meaningful business insights that help understand sales 
 
 ## 🔹 Database Tables Used
 
-- employee  
-- customer  
-- invoice  
-- invoice_line  
-- track  
-- album  
-- artist  
-- genre  
-
----
+- Music_Store_database.sql
+- SQL PRoject.sql
+- album.csv
+- album2.csv
+- artist.csv
+- customer.csv
+- employee.csv
+- genre.csv
+- invoice.csv
+- invoice_line.csv
+- media_type.csv
+- playlist.csv
+- playlist_track.csv
+- schema_diagram.png
+- Track.csv 
 
 ## 🔍 Business Questions Solved
 
